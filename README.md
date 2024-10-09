@@ -14,10 +14,10 @@ This project is a easy simulation tip calculator created with React and Vite.
 # Site Depoly by Netlify
 
 ```bash
-https://clinquant-swan-1b49c4.netlify.app/
+https://vermillion-pavlova-c5b414.netlify.app/
 ```
 
-[![Visit Site](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://clinquant-swan-1b49c4.netlify.app/)
+[![Visit Site](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://vermillion-pavlova-c5b414.netlify.app/)
 
 ## Project Setup
 
