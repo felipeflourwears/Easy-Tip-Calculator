@@ -2,6 +2,23 @@
 
 This project is a easy simulation tip calculator created with React and Vite.
 
+## Screenshots
+
+### Main Screen
+<img src="public/img/screen.png" alt="main" width="900" height="400">
+
+
+### Order and Tip
+<img src="public/img/order.png" alt="main" width="900" height="400">
+
+# Site Depoly by Netlify
+
+```bash
+https://clinquant-swan-1b49c4.netlify.app/
+```
+
+[![Visit Site](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://clinquant-swan-1b49c4.netlify.app/)
+
 ## Project Setup
 
 The project was created using Vite with the following configuration:

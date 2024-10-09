@@ -1,4 +1,4 @@
-import type { OrderItem } from "../types"
+import type { OrderItem, MenuItem } from "../types"
 import formatCurrency from '../helpers'; // Importación por defecto
 
 type OrderContentsProps = {
